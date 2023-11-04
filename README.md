@@ -1,3 +1,6 @@
+#Click Here to see the application
+Open [https://tauhidulislamzisan.github.io/counter-app/](https://tauhidulislamzisan.github.io/counter-app/) to view it in your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
