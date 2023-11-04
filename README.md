@@ -1,4 +1,4 @@
-#Click Here to see the application
+# Click Here to see the application
 Open [https://tauhidulislamzisan.github.io/counter-app/](https://tauhidulislamzisan.github.io/counter-app/) to view it in your browser.
 
 # Getting Started with Create React App
